@@ -7,4 +7,6 @@ Few-shot semantic segmentation (FSS) learns to segment novel classes with only a
 
 #Compare EXiting and Our Proposed Model
 ![Image](https://github.com/proloy190902/CGPRNet/blob/d52d9b0b48a3eab6cd80799baba4ffca54900260/_Comparisons%20of%20our%20proposed%20method%20and%20the%20Exiting%20model..drawio.png)
+
 # Dataset: 
+We conduct extensive experiments on PASCAL-5i, COCO-20i and FSS-1000 datasets
