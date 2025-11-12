@@ -5,6 +5,6 @@ Few-shot semantic segmentation (FSS) learns to segment novel classes with only a
 # Pipeline Architecture
 ![Architecture](https://github.com/proloy190902/CGPRNet/blob/de919e29b1f674e3c26e73bccec5e4a4e33235aa/CGPRNet%20Architecture.png)
 
-
-
+#Compare EXiting and Our Proposed Model
+![Image](https://github.com/proloy190902/CGPRNet/blob/d52d9b0b48a3eab6cd80799baba4ffca54900260/_Comparisons%20of%20our%20proposed%20method%20and%20the%20Exiting%20model..drawio.png)
 # Dataset: 
